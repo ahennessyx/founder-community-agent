@@ -1,5 +1,7 @@
 # Founder Community Agent
 
+**Live demo:** [founder-community-agent.vercel.app](https://founder-community-agent.vercel.app/)
+
 An AI-powered community management tool for a private LinkedIn group of zero-to-one stage founders. Built to demonstrate full-stack product thinking: a clean editorial UI, a multi-mode AI agent, a structured approval workflow, and a Node.js delivery backend with Gmail integration and audit logging.
 
 ---
